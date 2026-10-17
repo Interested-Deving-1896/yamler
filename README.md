@@ -66,7 +66,7 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 |---|---|
 | [@juliojimenez](https://github.com/juliojimenez) | 149 |
 | [@dependabot[bot]](https://github.com/apps/dependabot) | 43 |
-| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 6 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 7 |
 | [@dependabot-preview[bot]](https://github.com/apps/dependabot-preview) | 3 |
 <!-- AI:end:contributors -->
 
@@ -85,18 +85,15 @@ _No additional resource files found._
 ## Accessibility
 
 <!-- AI:start:accessibility -->
-This repo uses automated accessibility auditing via `check-accessibility.yml`.
-
-Checks include: CODEOWNERS ownership coverage, README screen-reader compatibility,
-WCAG 2.1 AA HTML compliance, audio overview (espeak-ng), and Braille output (liblouis).
-
+No  was found when this README was generated. Check the
+[Actions tab](https://github.com/Interested-Deving-1896/yamler/actions) for repository-specific checks, and document an
+accessibility status only when a report or workflow provides evidence for it.
 
 
 
-Run the [Check Accessibility](https://github.com/Interested-Deving-1896/yamler/actions/workflows/check-accessibility.yml)
-workflow to generate the first report and accessibility artifacts.
+
 See the [W3C Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/)
-for the underlying accessibility reference.
+for accessibility guidance.
 <!-- AI:end:accessibility -->
 
 ## License
